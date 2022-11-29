@@ -1,0 +1,13 @@
+{
+    "python.analysis.typeCheckingMode": "basic",
+    "python.analysis.autoImportCompletions": true,
+    "python.defaultInterpreterPath": "/c/GitHub/Fred-Factory/GitHub/Fred-Factory/FredFactoryEnv/Scripts/python",
+    "python.linting.flake8Enabled": true,
+    "python.linting.enabled": true,
+    "python.linting.flake8Args": [
+        "--max-line-length=120"
+    ],
+    "python.analysis.extraPaths": [
+        "./FredFactoryEnv/Files"
+    ]
+}
